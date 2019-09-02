@@ -1,4 +1,4 @@
-I have demonstrated the Sentiment Analysis on Amazon Fine Food Reviews Dataset(https://www.kaggle.com/snap/amazon-fine-food-reviews) using classical machine learning techniques such as:</br>
+I have demonstrated the Sentiment Analysis on Amazon Fine Food Reviews Dataset(https://www.kaggle.com/snap/amazon-fine-food-reviews) using classical machine learning techniques and Deep learning algorithms such as:</br>
 
 1. K-Nearest Neighbors </br>
 2. Naive Bayes</br>
@@ -7,3 +7,4 @@ I have demonstrated the Sentiment Analysis on Amazon Fine Food Reviews Dataset(h
 5. Support Vector Machines</br>
 6. Decision Trees</br>
 7. Ensemble Models - Random Forests</br>
+8. LSTM
